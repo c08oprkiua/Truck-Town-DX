@@ -1,2 +1,2 @@
 # Truck-Town-DX
-Modified version of the Truck Town demo for Fusion Engine
+Modified version of the Truck Town demo for Fusion Engine. This specifically changes some materials, reducing duplicate resources, adds a couple of car controls, and changes loading to make car swapping much faster at the cost of upfront loading being longer.
